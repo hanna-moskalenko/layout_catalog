@@ -63,7 +63,7 @@
     background-size: 160px 134px;
   }
 
-  &__chapter {
+  &__title {
     margin: 40px 16px 4px;
     text-align: left;
     width: 166px;
@@ -76,7 +76,7 @@
     transition: color 300ms ease;
   }
 
-  &:hover &__chapter {
+  &:hover &__title {
     color: #34568b;
   }
 
